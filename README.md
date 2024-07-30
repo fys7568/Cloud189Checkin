@@ -72,9 +72,6 @@ module.exports = [{
 }, {
   userName: process.env.TY_USER_NAME3,
   password: process.env.TY_PASSWORD3,
-}, {
-  userName: process.env.TY_USER_NAME4,
-  password: process.env.TY_PASSWORD4,
 }];
 ```
 ![](https://cdn.jsdelivr.net/gh/wes-lin/Cloud189Checkin/image/local.png)
