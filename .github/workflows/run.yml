@@ -6,9 +6,6 @@ on:
   workflow_dispatch:
   schedule:
     - cron: 41 21 * * *
- permissions:
-  contents: write
-  actions: write
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
